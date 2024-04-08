@@ -8,7 +8,7 @@ My name is ✨**Jamille Saraiva**✨
 - 🖥️  **Computer Science** student
 - 🌱 I’m currently learning front-end triad (`HTML`, `CSS`, `Javascript`)
 - 👩‍💻 I’m looking for an opportunity as a **front-end developer**
-- ⚡ I like movies 🍿🍫, series 🎥, cats 😺 and food 😋
+- ⚡ I like **music** 🎶, **series** 🍿🍫, **cats** 😺 and **food** 😋
 - 😆 Fun fact: I learned **english** to understand kpop
 
 
